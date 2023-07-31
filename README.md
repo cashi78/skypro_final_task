@@ -1,4 +1,4 @@
-# skypro_final_task
+# skypro_final_task_Igor.Kashicyn
 Учебный репозиторий - Финальное задание
 
 В репозитории расположены файлы 
